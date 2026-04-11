@@ -36,8 +36,6 @@ I'm a dedicated Computer Science student at [Metropolitan University](https://ww
 
 ## 📊 My GitHub Stats:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NavidZamanKhan&label=Profile%20views&color=301934&style=flat" alt="NavidZamanKhan" /> </p>
-<img src="https://github-readme-stats.vercel.app/api?username=NavidZamanKhan&theme=codeSTACKr&show_icons=true&hide_border=true&count_private=true" alt="NavidZamanKhan's Stats" style="width: 50%; height: 100%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavidZamanKhan&theme=codeSTACKr&show_icons=true&hide_border=true&layout=compact" alt="NavidZamanKhan's Top Languages" style="width: 50%;">
 <img id="profile-details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NavidZamanKhan&theme=codeSTACKr" alt="Profile Details" style="width: 100%;">
 
 
