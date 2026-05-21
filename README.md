@@ -24,7 +24,7 @@
 </pre>
 # 👋🏼 Hi, I'm Navid 
 
-I'm a dedicated Computer Science student at [Metropolitan University](https://www.metrouni.edu.bd) and a committed Flutter app developer, focused on building innovative solutions through software.
+I am a Computer Science student at [Metropolitan University](https://www.metrouni.edu.bd?) with a strong focus on Flutter application development. I specialize in designing and developing scalable mobile applications with an emphasis on clean architecture, maintainable code, and practical user experiences.
 
 ## 💻 Technologies I've worked and working with:
 
