@@ -31,9 +31,6 @@ I am a Computer Science student at [Metropolitan University](https://www.metroun
 ### Languages and Frameworks:
 [![Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,python,django,flask,cpp,c)](#)
 
-### Technology and Software:
-[![Tools](https://skillicons.dev/icons?i=vscode,antigravity,androidstudio,visualstudio,powershell,bash,notion,github,stackoverflow,ps)](#)
-
 ## My GitHub Stats:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NavidZamanKhan&label=Profile%20views&color=301934&style=flat" alt="NavidZamanKhan" /> </p>
 <img id="profile-details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NavidZamanKhan&theme=codeSTACKr" alt="Profile Details" style="width: 100%;">
