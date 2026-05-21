@@ -24,18 +24,13 @@
 </pre>
 # 👋🏼 Hi, I'm Navid 
 
-
 I am a Computer Science student at [Metropolitan University](https://www.metrouni.edu.bd?) with a strong focus on Flutter application development. I build scalable mobile applications with an emphasis on clean architecture, maintainable code, and practical user experiences.
-
 
 ## Technologies I Work With:
 [![Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,python,django,flask,cpp,c)](#)
 
-
 ## My GitHub Stats:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NavidZamanKhan&label=Profile%20views&color=301934&style=flat" alt="NavidZamanKhan" /> </p>
 <img id="profile-details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NavidZamanKhan&theme=codeSTACKr" alt="Profile Details" style="width: 100%;">
-
 
 ## Connect with Me:
 <p align="left">
@@ -54,7 +49,6 @@ I am a Computer Science student at [Metropolitan University](https://www.metroun
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="navid_zaman_khan" height="40" width="40" />
     </a>
 </p>
-
         
 ## 😺 Fun Fact:
 Outside of coding, I enjoy spending time with my cat, who always manages to keep life interesting.
