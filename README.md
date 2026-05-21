@@ -24,22 +24,22 @@
 </pre>
 # 👋🏼 Hi, I'm Navid 
 
-I am a Computer Science student at [Metropolitan University](https://www.metrouni.edu.bd?) with a strong focus on Flutter application development. I specialize in designing and developing scalable mobile applications with an emphasis on clean architecture, maintainable code, and practical user experiences.
+I am a Computer Science student at [Metropolitan University](https://www.metrouni.edu.bd?) with a strong focus on Flutter application development. I build scalable mobile applications with an emphasis on clean architecture, maintainable code, and practical user experiences.
 
-## 💻 Technologies I've worked and working with:
+## Technologies I Work With:
 
 ### Languages and Frameworks:
-[![Skills](https://skillicons.dev/icons?i=flutter,dart,python,flask,html,css,bootstrap,scss,c,cpp,git)](#)
+[![Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,python,django,flask,cpp,c)](#)
 
 ### Technology and Software:
-[![Tools](https://skillicons.dev/icons?i=vscode,androidstudio,visualstudio,powershell,bash,notion,github,stackoverflow,ps)](#)
+[![Tools](https://skillicons.dev/icons?i=vscode,antigravity,androidstudio,visualstudio,powershell,bash,notion,github,stackoverflow,ps)](#)
 
-## 📊 My GitHub Stats:
+## My GitHub Stats:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NavidZamanKhan&label=Profile%20views&color=301934&style=flat" alt="NavidZamanKhan" /> </p>
 <img id="profile-details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NavidZamanKhan&theme=codeSTACKr" alt="Profile Details" style="width: 100%;">
 
 
-## 🌐 Connect with Me:
+## Connect with Me:
 <p align="left">
     <a href="https://www.linkedin.com/in/NavidZamanKhan" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navid-zaman-khan" height="30" width="40" />
