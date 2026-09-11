@@ -26,7 +26,7 @@
 <h1 align="center">Navid Zaman Khan</h1>
 
 <p align="center">
-  <strong>Application developer · Mobile, macOS &amp; web</strong><br>
+  <strong>Application developer</strong><br>
   <em>Doing it for the love of the game.</em>
 </p>
 
@@ -38,16 +38,28 @@
 
 ## About
 
-I'm a Computer Science student at Metropolitan University, based in Sylhet, Bangladesh. I build apps with Flutter and Swift, and work with Python and the web to bring the rest of the product together.
+Most of my work is in Flutter. I also build native macOS apps with Swift and backends with Python. I'm studying Computer Science & Engineering at Metropolitan University in Sylhet, Bangladesh.
 
-I like taking an idea all the way to something I'd want to use myself. That means caring about both sides of an app: the small interactions people notice, and the architecture that makes it easy to keep improving.
+I like the whole process: figuring out what an app should do, making it work, and refining it until it feels right. I care about the details people interact with and the code I'll have to understand six months later.
 
+## Stack
 
+<sub>MOBILE / CROSS-PLATFORM</sub><br>
+**Flutter** · Dart · BLoC · Riverpod
+
+<sub>NATIVE / macOS</sub><br>
+**Swift** · SwiftUI
+
+<sub>BACKEND / APIs</sub><br>
+**Python** · Django · Flask
+
+<sub>SERVICES / TOOLING</sub><br>
+Firebase · SQLite · Git
 
 ## GitHub Stats
 
-<img id="profile-details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NavidZamanKhan&theme=codeSTACKr" alt="Profile Details" style="width: 100%;">
+<img id="profile-details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NavidZamanKhan&theme=github_dark" alt="Navid Zaman Khan's GitHub activity" width="100%">
 
 ## Life Outside the IDE
 
-Usually hanging out with my cat. An excellent reminder that not everything needs a keyboard shortcut.
+Outside of coding, I spend time with my cat. A good reminder to close the laptop occasionally.
