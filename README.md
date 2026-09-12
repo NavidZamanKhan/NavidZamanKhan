@@ -27,7 +27,7 @@
 
 <p align="center">
   <strong>Application Developer</strong><br>
-  <em>Doing it for the love of the game.</em>
+  <em>Doing it for the love of the game</em>
 </p>
 
 <p align="center">
